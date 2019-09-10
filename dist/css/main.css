@@ -294,11 +294,11 @@ main {
     align-items: center;
     text-align: center; }
     main .lg-heading {
-      font-size: 70px;
+      font-size: 35px;
       line-height: 1;
       margin-bottom: 1rem; }
       main .lg-heading .text-secondary {
-        font-size: 65px; }
+        font-size: 25px; }
   .bio p {
     font-size: 20px; }
   .email h3 {
